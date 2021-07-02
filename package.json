@@ -1,0 +1,19 @@
+{
+  "name": "twitterbanner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "fs": "^0.0.1-security",
+    "jimp": "^0.16.1",
+    "twitter-api-client": "^1.3.8"
+  }
+}
